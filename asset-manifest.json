@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/github.io/react_RecordTable/static/css/main.d52fef92.css",
+    "main.js": "/github.io/react_RecordTable/static/js/main.afc139f3.js",
+    "static/js/787.6132404a.chunk.js": "/github.io/react_RecordTable/static/js/787.6132404a.chunk.js",
+    "index.html": "/github.io/react_RecordTable/index.html",
+    "main.d52fef92.css.map": "/github.io/react_RecordTable/static/css/main.d52fef92.css.map",
+    "main.afc139f3.js.map": "/github.io/react_RecordTable/static/js/main.afc139f3.js.map",
+    "787.6132404a.chunk.js.map": "/github.io/react_RecordTable/static/js/787.6132404a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d52fef92.css",
+    "static/js/main.afc139f3.js"
+  ]
+}
